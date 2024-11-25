@@ -3,4 +3,5 @@ venv
 *.png
 *.iml
 *.py
+*.csv
 /.ipynb_checkpoints/
